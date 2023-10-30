@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM with Azure Sentinel](will use Github repo for SIEM)
+- [SIEM with Azure Sentinel](https://github.com/RIWORZA/AzureSentinelSIEM)
 
 <h2>👨‍💻 Certifications:</h2>
 
