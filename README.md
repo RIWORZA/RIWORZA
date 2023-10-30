@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM with Azure Sentinel](https://github.com/RIWORZA/AzureSentinelSIEM)
+- [SIEM with Azure Sentinel](https://github.com/RIWORZA/AzureSentinelSIEM)<br/>
+- More Projects to come!
+  I will be adding more project links for each project I've worked on with screenshots and step-by-step explainition behind decisions and planning.
 
 <h2> 🤳 Connect with me:</h2>
 
