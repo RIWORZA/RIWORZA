@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM with Azure Sentinel](https://github.com/RIWORZA/AzureSentinelSIEM)<br/>
+- [SIEM with Azure Sentinel Lab](https://github.com/RIWORZA/AzureSentinelSIEM)<br/>
+- [OpenVAS Vulnerability Lab](https://github.com/RIWORZA/OpenVAS-Vulnerability-Scan-Lab)<br/>
 - [Active Directory in a Corporate Setting](https://github.com/RIWORZA/ActiveDirectoryCorporateSetting)
 - More Projects to come!
-  I will be adding more project links for each project I've worked on with screenshots and step-by-step explainition behind decisions and planning.
+  Currently in the process of completing more projects and will be adding documentation, screenshots, and my thought process while completing them.
 
 <h2> 🤳 Connect with me:</h2>
 
